@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/01 - Domain/">
+    <Project Path="Revisao.Domain/Revisao.Domain.csproj" />
+  </Folder>
+  <Folder Name="/02 - Data/">
+    <Project Path="Revisao.Data/Revisao.Data.csproj" />
+  </Folder>
+  <Folder Name="/03 - Application/">
+    <Project Path="Revisao.Application/Revisao.Application.csproj" />
+  </Folder>
+  <Folder Name="/04 - Api/">
+    <Project Path="Revisao.Api/Revisao.Api.csproj" />
+  </Folder>
+</Solution>
